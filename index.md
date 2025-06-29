@@ -2,6 +2,8 @@
 
 <span style="font-size: 200%">SASAKI Reon 佐々木 怜音</span>
 
+[Poster](https://ctl.t.u-tokyo.ac.jp/static/98a2a4657f09125a99714f275ebd487e/poster_PEMC2023_2.pdf){:target="_blank"}
+<br>
 [Ph.D. Candidate](https://www.u-tokyo.ac.jp/focus/ja/people/k0001_05001.html){:target="_blank"}
 <br>
 [Koseki-Ohnishi Laboratory](https://ctl.t.u-tokyo.ac.jp){:target="_blank"}
