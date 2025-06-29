@@ -20,7 +20,7 @@ Naoto Kodama, Shungo Zen, Yasushi Yamano, Yuki Inada, Wataru Ohnishi<br>IECON 20
 1. Active Control of Pyrofuse in Circuit Breaker with State Estimation of Current-Limiting Fuse<br>Taichi Nakano, **Reon Sasaki**, Wataru Ohnishi, Yasushi Yamano, Yuki Inada<br>IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, IL, USA, 2024, pp. 1-6<br>[[DOI](http://dx.doi.org/10.1109/IECON55916.2024.10905289){:target="_blank"}]
 1. State Variable Dependent Disturbances Compensation Using Gaussian Process Regression: With Application to Core-type Linear Motor<br>**Reon Sasaki**,Wataru Ohnishi,Takafumi Koseki,Koichi Sakata,Pai-Hsueh Yang,Gaurav Keswani<br>2024 IEEE International Conference on Advanced Intelligent Mechatronics (AIM), Boston, MA, USA, 2024, pp. 416-421<br>[[DOI](http://dx.doi.org/10.1109/AIM55361.2024.10637133){:target="_blank"}]
 {: reversed="reversed"}
-
+---
 ## Domestic Conference Publications (non peer-reviewed)
 1. 横磁束形リニア同期モータの磁気吸引力能動制御による3自由度駆動ステージの精密制御<br>**佐々木怜音**,片山真守,大西亘,古関隆章,Yang Pai-Hsueh,Keswani Gaurav,金弘中,坂田晃一<br>電気学会メカトロニクス制御研究会資料（電気学会研究会資料）, pp. 79-84, 2024.
 1. Experimental Validation of Optimized Sequence Control for Fuse Current Under Diverse Conditions<br>Shin Songah, **佐々木怜音**, 大西亘, 稲田優貴, 山納康, 中野裕介, 兒玉直人, 全俊豪<br>電気学会メカトロニクス制御研究会資料（電気学会研究会資料）, pp. 33-37, 2024.
@@ -31,6 +31,7 @@ Naoto Kodama, Shungo Zen, Yasushi Yamano, Yuki Inada, Wataru Ohnishi<br>IECON 20
 1. Operation timing considerations of Hybrid DCCB based on data analysis of current-limiting-status inside fuse<br>Yecheng Liu, **Reon Sasaki**, Wataru Ohnishi, Takafumi Koseki, Kosuke Tukamoto, Yasusi Yamano, Yuki Inada, Shungo Zen<br>電気学会 放電・プラズマ・パルスパワー/開閉保護/高電圧 合同研究会, 2022.
 1. ヒューズ半導体ハイブリッド遮断器におけるリニアモータを用いた高速ヒューズ交換の基礎検討<br>**佐々木怜音**, 大西亘, 高田康宏, 古関隆章, 全俊豪, 稲田優貴<br>電気学会研究会資料（交通・電気鉄道/リニアドライブ合同研究会）, pp. 7-12, 2022.
 1. 高速再閉路可能なヒューズ半導体ハイブリッド遮断器の実証<br>大西亘, 稲田優貴, 全俊豪, **佐々木怜音**, 髙田康宏, 宮岡優太, 塚本幸佑, 山納康<br>電気学会研究会資料（放電・プラズマ・パルスパワー／開閉保護／高電圧合同研究会）, pp. 13-18, 2021.
+{: reversed="reversed"}
 <!-----
 ## Miscellaneous
 1. 2段アクチュエータHDDベンチマーク問題における不安定極と安定極を統合した共振フィルタによるデータ駆動ループ整形<br>前匡鴻<br>電気学会メカトロニクス制御研究会「精密サーボシステムと制御技術」, MEC-24(6), 31-36, September 2024
