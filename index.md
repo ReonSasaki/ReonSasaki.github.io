@@ -4,7 +4,7 @@
 
 [Ph.D. Candidate](https://www.u-tokyo.ac.jp/focus/ja/people/k0001_05001.html){:target="_blank"}
 <br>
-[Energy System Group](https://ctl.t.u-tokyo.ac.jp){:target="_blank"}
+[Koseki-Ohnishi Laboratory](https://ctl.t.u-tokyo.ac.jp){:target="_blank"}
 <br>
 [Department of Electrical Engineering and Information Systems](https://www.eeis.t.u-tokyo.ac.jp){:target="_blank"}
 <br>
