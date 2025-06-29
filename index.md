@@ -1,6 +1,6 @@
 <img src="Reon1MB.JPG" width="300"/>
 
-<span style="font-size: 200%">SASAKI Reon</span>
+<span style="font-size: 200%">SASAKI Reon</span><br>
 <span style="font-size: 200%">佐々木 怜音</span>
 
 [Poster](https://ctl.t.u-tokyo.ac.jp/static/98a2a4657f09125a99714f275ebd487e/poster_PEMC2023_2.pdf){:target="_blank"}
