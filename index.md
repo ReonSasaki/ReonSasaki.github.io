@@ -1,6 +1,6 @@
-<span style="font-size: 200%">SASAKI Reon 佐々木 怜音</span>
-
 <img src="Reon1MB.JPG" width="300"/>
+
+<span style="font-size: 200%">SASAKI Reon 佐々木 怜音</span>
 
 [Ph.D. Candidate](https://www.u-tokyo.ac.jp/focus/ja/people/k0001_05001.html){:target="_blank"}
 <br>
