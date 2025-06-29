@@ -12,7 +12,7 @@
 <br>
 [The University of Tokyo](https://www.u-tokyo.ac.jp){:target="_blank"}
 
-E-mail: mmae (at) ieee.org
+E-mail: r.sasaki (at) ctl.t.u-tokyo.ac.jp
 
 - [LinkedIn](https://www.linkedin.com/in/reon-sasaki-72571625b/){:target="_blank"}
 - [IEEE Xplore](https://ieeexplore.ieee.org/author/37089772795){:target="_blank"}
