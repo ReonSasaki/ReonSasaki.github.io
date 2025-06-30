@@ -6,9 +6,9 @@ title: Publication
 ---
 ## Journal Articles (peer-reviewed)
 Peer-Reviewed Journal Articles
+1. リニアモータを用いた革新的直流遮断器の実用性向上<br>**佐々木怜音**, 大西亘, 兒玉直人, 中野裕介, 全俊豪, 山納康, 稲田優貴<br>電気学会論文誌D, Vol. 145, No.7, pp. 506-513, 2025<br>[[DOI](https://doi.org/10.1541/ieejias.145.506){:target="_blank"}]
 1. ヒューズと半導体を併用した限流遮断器による低電圧システムの事故・負荷電流遮断<br>稲田優貴, 全俊豪, 大西亘, 兒玉直人, 中野裕介, 高田康宏, **佐々木怜音**, 宮岡優太, 塚本幸佑, 山田圭矢, 山納康<br>電気学会論文誌D, Vol. 144, No.6, pp. 502-508, 2024<br>[[DOI](https://doi.org/10.1541/ieejias.144.502){:target="_blank"}]
 1. Proof-of-Concept of a Fuse-Semiconductor Hybrid Circuit Breaker With a Fast Fuse Exchanger<br>Wataru Ohnishi, Yuki Inada, Shungo Zen, **Reon Sasaki**, Yasuhiro Takada, Yuta Miyaoka<br>IEEE Transactions on Power Delivery, vol. 38, no. 2, pp. 937-946, April 2023<br>[[DOI](http://dx.doi.org/10.1109/TPWRD.2022.3202821){:target="_blank"}]
-1. リニアモータを用いた革新的直流遮断器の実用性向上<br>**佐々木怜音**, 大西亘, 兒玉直人, 中野裕介, 全俊豪, 山納康, 稲田優貴<br>電気学会論文誌D, Vol. 145, No.7, pp. 506-513, 2025<br>[[DOI](https://doi.org/10.1541/ieejias.145.506){:target="_blank"}]
 {: reversed="reversed"}
 ---
 ## International Conference Publications (peer-reviewed)
