@@ -69,7 +69,7 @@ Society
 ## Award
 1. 2024年産業応用部門研究会優秀論文発表賞部門表彰<br>一般社団法人電気学会産業応用部門, March 2025
 1. メカトロニクス制御技術委員会優秀論文発表賞<br>一般社団法人電気学会産業応用部門メカトロニクス制御技術委員会, January 2025
-1. 東京大学古関・大西研究室 (大西亘, 佐々木怜音, 弦本健太郎, ブディオノクリスチャンミレニュー, 服部光希), 「村田機械賞」, SEMICON Japan アカデミアAward December 2024 [Page]([https://www.semiconjapan.org/jp/workforce/academia-award]){:target="_blank"}
+1. 東京大学古関・大西研究室 (大西亘, 佐々木怜音, 弦本健太郎, ブディオノクリスチャンミレニュー, 服部光希), 「村田機械賞」, SEMICON Japan アカデミアAward December 2024 [Page](https://www.semiconjapan.org/jp/workforce/academia-award){:target="_blank"}
 1. 先端電力エネルギー・環境技術教育研究アライアンス APET優秀ポスター発表賞1位 
-1. 電力・エネルギー部門大会　YOC奨励賞, October 2021 [Page]([https://www.iee.jp/pes/ypc-yoc-2021/]){:target="_blank"}
+1. 電力・エネルギー部門大会　YOC奨励賞, October 2021 [Page](https://www.iee.jp/pes/ypc-yoc-2021/){:target="_blank"}
 {: reversed="reversed"}
