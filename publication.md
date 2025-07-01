@@ -30,6 +30,7 @@ Naoto Kodama, Shungo Zen, Yasushi Yamano, Yuki Inada, Wataru Ohnishi<br>IECON 20
 1. Operation timing considerations of Hybrid DCCB based on data analysis of current-limiting-status inside fuse<br>Yecheng Liu, **Reon Sasaki**, Wataru Ohnishi, Takafumi Koseki, Kosuke Tukamoto, Yasusi Yamano, Yuki Inada, Shungo Zen<br>電気学会 放電・プラズマ・パルスパワー/開閉保護/高電圧 合同研究会, 2022[[Page]([https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202276492879979]){:target="_blank"}]
 1. ヒューズ半導体ハイブリッド遮断器におけるリニアモータを用いた高速ヒューズ交換の基礎検討<br>**佐々木怜音**, 大西亘, 高田康宏, 古関隆章, 全俊豪, 稲田優貴<br>電気学会研究会資料（交通・電気鉄道/リニアドライブ合同研究会）, pp. 7-12, 2022[[Page]([https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302274072811844]){:target="_blank"}]
 1. 高速再閉路可能なヒューズ半導体ハイブリッド遮断器の実証<br>大西亘, 稲田優貴, 全俊豪, **佐々木怜音**, 髙田康宏, 宮岡優太, 塚本幸佑, 山納康<br>電気学会研究会資料（放電・プラズマ・パルスパワー／開閉保護／高電圧合同研究会）, pp. 13-18, 2021[[Page]([https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302274072811844]){:target="_blank"}]
+1. PVを大量導入した電力系統におけるVSGモデル制御PVの出力抑制率決定法<br>**佐々木怜音**, 横山明彦<br>電気学会電力・エネルギー部門大会論文集 令和3年, 2021[[Page]([https://ndlsearch.ndl.go.jp/books/R100000039-I11908316]){:target="_blank"}]
 {: reversed="reversed"}
 ---
 <!-----
