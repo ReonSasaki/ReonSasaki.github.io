@@ -20,7 +20,8 @@ Naoto Kodama, Shungo Zen, Yasushi Yamano, Yuki Inada, Wataru Ohnishi<br>IECON 20
 1. State Variable Dependent Disturbances Compensation Using Gaussian Process Regression: With Application to Core-type Linear Motor<br>**Reon Sasaki**,Wataru Ohnishi,Takafumi Koseki,Koichi Sakata,Pai-Hsueh Yang,Gaurav Keswani<br>2024 IEEE International Conference on Advanced Intelligent Mechatronics (AIM), Boston, MA, USA, 2024, pp. 416-421<br>[[DOI](http://dx.doi.org/10.1109/AIM55361.2024.10637133){:target="_blank"}]
 {: reversed="reversed"}
 ---
-## Domestic Conference Publications (non peer-reviewed)
+## Domestic Conference Publications (non-peer-reviewed)
+1. Iterative Learning Control for MIMO LPV Systems Using Gaussian Process-Based Scheduling of Transformation Matrices<br>**佐々木怜音**,・秋間尚輝, 伊藤銀平, 藤原弘, 大音久志, 大西亘<br>電気学会産業応用部門大会, 2025
 1. 横磁束形リニア同期モータの磁気吸引力能動制御による3自由度駆動ステージの精密制御<br>**佐々木怜音**,片山真守,大西亘,古関隆章,Yang Pai-Hsueh,Keswani Gaurav,金弘中,坂田晃一<br>電気学会研究会資料（電気学会メカトロニクス制御研究会資料）, pp. 79-84, 2024<br>[[Page](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402269782554640){:target="_blank"}]
 1. Experimental Validation of Optimized Sequence Control for Fuse Current Under Diverse Conditions<br>Shin Songah, **佐々木怜音**, 大西亘, 稲田優貴, 山納康, 中野裕介, 兒玉直人, 全俊豪<br>電気学会研究会資料（放電・プラズマ・パルスパワー／開閉保護／高電圧合同研究会）, pp. 33-37, 2024<br>[[Page](https://cir.nii.ac.jp/crid/1520301607092226432){:target="_blank"}]
 1. モーションコントロール技術の異分野融合と新領域への展開～電力分野への展開～<br>**佐々木怜音**, 大西亘, 兒玉直人, 中野裕介, 全俊豪, 山納康, 稲田優貴<br>電気学会産業応用部門大会, 2024
