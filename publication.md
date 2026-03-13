@@ -16,16 +16,23 @@ Peer-Reviewed Journal Articles
 ## International Conference Publications (peer-reviewed)
 Peer-Reviewed Conference Proceedings
 1. Gaussian Process-Based Compensation of State-Dependent Disturbances in Iron-Core Linear Motor Stages<br>**Reon Sasaki**, Wataru Ohnishi, Pai-Hsueh Yang, Houng-Joong Kim, Koichi Sakata, Takafumi Koseki<br>SAMCON 2026, Daegu, Korea, 2026, pp. 409-414
+1. Resistance Estimation of Current-Limiting Fuse for Active Control of Pyrofuse in DC Circuit Interruption Device<br>Taichi Nakano, **Reon Sasaki**, Yasuhiro Takada, Wataru Ohnishi, Yasushi Yamano, Yuki Inada<br> IECON 2025 - 51th Annual Conference of the IEEE Industrial Electronics Society, Madrid, Spain, 2025<br>[[DOI]([https://doi.org/10.1109/IECON58223.2025.11221900]){:target="_blank"}]
 1. Real-Time Tuning of Transformation Matrices for Decoupling Control in Dual-Drive Stage Systems Using Gaussian Process<br>**Reon Sasaki**, Naoki Akima, Gimpei Ito, Hiroshi Fujiwara, Hisashi Ooto, Wataru Ohnishi<br>2025 IEEE International Conference on Mechatronics, Wollongong, Australia, 2025, pp. 1-6<br>[[DOI](http://dx.doi.org/10.1109/ICM62621.2025.10934823){:target="_blank"}]
-1. Active Control of Pyrofuse in Circuit Breaker with State Estimation of Current-Limiting Fuse<br>Taichi Nakano, **Reon Sasaki**, Wataru Ohnishi, Yasushi Yamano, Yuki Inada<br>IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, IL, USA, 2024, pp. 1-6<br>[[DOI](http://dx.doi.org/10.1109/IECON55916.2024.10905289){:target="_blank"}]
+1. Active Control of Pyrofuse in Circuit Breaker with State Estimation of Current-Limiting Fuse<br>Taichi Nakano, **Reon Sasaki**, Wataru Ohnishi, Yasushi Yamano, Yuki Inada<br>IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, IL, USA, 2024<br>[[DOI](http://dx.doi.org/10.1109/IECON55916.2024.10905289){:target="_blank"}]
 1. Optimized Sequence Control of a Fuse-Semiconductor Hybrid Circuit Breaker through Real-Time Fuse State Estimation<br>Songah Shin, **Reon Sasaki**, Yusuke Nakano;
 Naoto Kodama, Shungo Zen, Yasushi Yamano, Yuki Inada, Wataru Ohnishi<br>IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, IL, USA, 2024, pp. 1-6<br>[[DOI](http://dx.doi.org/10.1109/IECON55916.2024.10905360){:target="_blank"}]
 1. State Variable Dependent Disturbances Compensation Using Gaussian Process Regression: With Application to Core-type Linear Motor<br>**Reon Sasaki**, Wataru Ohnishi, Takafumi Koseki, Koichi Sakata, Pai-Hsueh Yang, Gaurav Keswani<br>2024 IEEE International Conference on Advanced Intelligent Mechatronics (AIM), Boston, MA, USA, 2024, pp. 416-421<br>[[DOI](http://dx.doi.org/10.1109/AIM55361.2024.10637133){:target="_blank"}]
 {: reversed="reversed"}
 ---
 ## Domestic Conference Publications (non-peer-reviewed)
+1. パイロヒューズの能動制御を活用した限流ヒューズの定格電流及び遮断性能の向上<br>仲野太智, **佐々木怜音**, 稲田優貴, 山納康, 水野秀樹, 小森翔悟, 大西亘<br>電気学会A 部門放電・プラズマ・パルスパワー研究会， B 部門開閉保護研究会， B 部門高電圧研究会（合同研究会），福岡県, 2025
+1. パイロヒューズを活用した限流ヒューズの定格運用範囲拡張と能動動作の実現<br>仲野太智, **佐々木怜音**, 大西亘, 山納康, 稲田優貴<br>電気学会電力・エネルギー部門大会，琉球大学千原キャンパス, 沖縄県，2025
+1. ヒューズ・半導体併用型直流遮断器におけるヒューズ内再発弧を考慮した最適遮断タイミングの検討<br>
+Optimization of Interruption Timing in Fuse-Semiconductor Hybrid DC Circuit Breakers Considering Arc Re-Ignition inside Fuse
+<br>市毛宏弥, 仲野太智, **佐々木怜音**, 山納康, 稲田優貴, 全俊豪, 大西亘
+<br>放電・プラズマ・パルスパワー研究会/静止器研究会/開閉保護研究会 pp. 13-18, 2025
 1. Iterative Learning Control for MIMO LPV Systems Using Gaussian Process-Based Scheduling of Transformation Matrices<br>**佐々木怜音**,・秋間尚輝, 伊藤銀平, 藤原弘, 大音久志, 大西亘<br>電気学会産業応用部門大会, 2025
-1. 横磁束形リニア同期モータの磁気吸引力能動制御による3自由度駆動ステージの精密制御<br>**佐々木怜音**,片山真守,大西亘,古関隆章,Yang Pai-Hsueh,Keswani Gaurav,金弘中,坂田晃一<br>電気学会研究会資料（電気学会メカトロニクス制御研究会資料）, pp. 79-84, 2024<br>[[Page](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402269782554640){:target="_blank"}]
+1. 横磁束形リニア同期モータの磁気吸引力能動制御による3自由度駆動ステージの精密制御<br>**佐々木怜音**, 片山真守, 大西亘, 古関隆章, Yang Pai-Hsueh, Keswani Gaurav, 金弘中, 坂田晃一<br>電気学会研究会資料（電気学会メカトロニクス制御研究会資料）, pp. 79-84, 2024<br>[[Page](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402269782554640){:target="_blank"}]
 1. Experimental Validation of Optimized Sequence Control for Fuse Current Under Diverse Conditions<br>Shin Songah, **佐々木怜音**, 大西亘, 稲田優貴, 山納康, 中野裕介, 兒玉直人, 全俊豪<br>電気学会研究会資料（放電・プラズマ・パルスパワー／開閉保護／高電圧合同研究会）, pp. 33-37, 2024<br>[[Page](https://cir.nii.ac.jp/crid/1520301607092226432){:target="_blank"}]
 1. モーションコントロール技術の異分野融合と新領域への展開～電力分野への展開～<br>**佐々木怜音**, 大西亘, 兒玉直人, 中野裕介, 全俊豪, 山納康, 稲田優貴<br>電気学会産業応用部門大会, 2024
 1. Verification of Fuse-Semiconductor Commutation Based on Online Estimation of Fuse Current-Limiting Status<br>Yecheng Liu, **Reon Sasaki**, Wataru Ohnishi, Keiya Yamada, Taihei Kobayashi, Yuki Inada, Yasushi Yamano, Shungo Zen<br>令和6年電気学会全国大会, pp. 36-37, 2024<br>[[Page](https://ieej.bookpark.ne.jp/products/ieej-zt20246-029){:target="_blank"}]
