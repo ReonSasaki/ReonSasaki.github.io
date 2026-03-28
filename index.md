@@ -71,6 +71,7 @@ Society
 ## Award
 1. 令和七年度 優秀博士論文賞<br>国立大学法人 東京大学 大学院工学系研究科 電気系工学専攻, 24 March 2026
 1. SAMCON 2026 Outstanding Paper Award<br>The Institute of Electrical Engineers of Japan, March 2026
+   [Page](https://www.semiconjapan.org/jp/workforce/academia-award){:target="_blank"}
 1. 2024年産業応用部門研究会優秀論文発表賞部門表彰<br>一般社団法人電気学会産業応用部門, March 2025
 1. メカトロニクス制御技術委員会優秀論文発表賞<br>一般社団法人電気学会産業応用部門メカトロニクス制御技術委員会, January 2025
 1. 東京大学古関・大西研究室 (大西亘, 佐々木怜音, 弦本健太郎, ブディオノクリスチャンミレニュー, 服部光希), 「村田機械賞」, SEMICON Japan アカデミアAward December 2024 [Page](https://www.semiconjapan.org/jp/workforce/academia-award){:target="_blank"}
