@@ -38,11 +38,13 @@ He is a student member of Institute of Electrical and Electronics Engineers, Ins
 ## Career
 
 Experience
-- April 2023 - Present: Ph.D. Candidate, Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo, Japan
+- Present: Technical Engineer
+- April 2023 - March 2026: Ph.D. Candidate, Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo, Japan
 - June 2024 - October 2024: Visiting Researcher, Nikon Research Corporation of America, US
 - July 2023 - September 2023: Visiting Researcher, Nikon Research Corporation of America, US
 
 Education
+- March 2026: Ph.D. in Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo, Japan
 - March 2023: M.S. in Department of Electrical Engineering and Information Systems Graduate School of Engineering, The University of Tokyo, Japan
 - March 2021: B.E. in Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Tokyo, Japan
 
@@ -67,6 +69,7 @@ Society
 - [エネルギー・資源学会論文誌](https://www.jstage.jst.go.jp/browse/jjser/-char/ja){:target="_blank"} -->
 
 ## Award
+1. 令和七年度 優秀博士論文賞<br>国立大学法人 東京大学 大学院工学系研究科 電気系工学専攻, 24 March 2026
 1. SAMCON 2026 Outstanding Paper Award<br>The Institute of Electrical Engineers of Japan, March 2026
 1. 2024年産業応用部門研究会優秀論文発表賞部門表彰<br>一般社団法人電気学会産業応用部門, March 2025
 1. メカトロニクス制御技術委員会優秀論文発表賞<br>一般社団法人電気学会産業応用部門メカトロニクス制御技術委員会, January 2025
