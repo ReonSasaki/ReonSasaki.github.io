@@ -30,8 +30,7 @@
 
 ## Biography
 
-Reon Sasaki received the B.E., M.S., and Ph.D. degrees from The University of Tokyo, Japan, in 2021, 2023, and 2026. Presently, he is pursuing a Ph.D. in the Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo. His research focuses on high-speed, high-precision control of linear motors.
-He is a student member of Institute of Electrical and Electronics Engineers, Institute of Electrical Engineers of Japan.
+Reon Sasaki received the B.E. degree in electrical and electronic engineering from The University of Tokyo, Japan, in 2021 and the M.S. and Ph.D. degrees in the Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo, Japan, in 2023, and 2026, respectively. He is currently an Engineer with Nikon Corporation, Tokyo, Japan. His current research focuses on learning-based high-speed, high-precision control of linear motors.
 
 ## Career
 
