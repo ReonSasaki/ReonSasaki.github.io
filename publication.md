@@ -7,6 +7,8 @@ title: Publication
 ## Journal Articles (peer-reviewed)
 Peer-Reviewed Journal Articles
 
+1. Iterative Learning Control for MIMO LPV Systems Using Gaussian Process-Based Scheduling of Transformation Matrices<br>**Reon Sasaki**, Naoki Akima, Gimpei Ito, Hiroshi Fujiwara, Hisashi Ooto, Wataru Ohnishi<br>
+IEEJ Journal of Industry Applications, Article ID 20250430, Advance online publication, February 2026<br>[[DOI](https://doi.org/10.1541/ieejjia.20250430){:target="_blank"}]
 1. Integration of Gaussian Process Regression and Iterative Learning Control for Scanning Stage with Iron-Core Linear Motors<br>**Reon Sasaki**, Wataru Ohnishi, Pai-Hsueh Yang, Houng-Joong Kim, Koichi Sakata, Takafumi Koseki<br>IEEJ Journal of Industry Applications, Article ID 20250299, Advance online publication, February 2026<br>[[DOI](https://doi.org/10.1541/ieejjia.20250299){:target="_blank"}]
 1. リニアモータを用いた革新的直流遮断器の実用性向上<br>**佐々木怜音**, 大西亘, 兒玉直人, 中野裕介, 全俊豪, 山納康, 稲田優貴<br>電気学会論文誌D, Vol. 145, No.7, pp. 506-513, 2025<br>[[DOI](https://doi.org/10.1541/ieejias.145.506){:target="_blank"}]
 1. ヒューズと半導体を併用した限流遮断器による低電圧システムの事故・負荷電流遮断<br>稲田優貴, 全俊豪, 大西亘, 兒玉直人, 中野裕介, 高田康宏, **佐々木怜音**, 宮岡優太, 塚本幸佑, 山田圭矢, 山納康<br>電気学会論文誌D, Vol. 144, No.6, pp. 502-508, 2024<br>[[DOI](https://doi.org/10.1541/ieejias.144.502){:target="_blank"}]
@@ -15,6 +17,10 @@ Peer-Reviewed Journal Articles
 ---
 ## International Conference Publications (peer-reviewed)
 Peer-Reviewed Conference Proceedings
+1. Integration of Gaussian Process Regression and Iterative Learning Control for Scanning Stage with Iron-Core Linear Motors<br>**Reon Sasaki**, Wataru Ohnishi, Pai-Hsueh Yang, Houng-Joong Kim, Koichi Sakata, Takafumi Koseki<br>2026 International Power Electronics Conference (IPEC-Nagasaki 2026- ECCE Asia), 2026
+1. Suppression of Transient Recovery Voltage in a Hybrid DC Circuit Breaker Using an IGBT and Two-Stage Fuse Configuration
+<br>Hiroya Ichike, Taichi Nakano, **Reon Sasaki**, Yuki Inada, Yasushi Yamano, Wataru Ohnishi<br>
+2026 International Power Electronics Conference (IPEC-Nagasaki 2026- ECCE Asia), 2026
 1. Gaussian Process-Based Compensation of State-Dependent Disturbances in Iron-Core Linear Motor Stages<br>**Reon Sasaki**, Wataru Ohnishi, Pai-Hsueh Yang, Houng-Joong Kim, Koichi Sakata, Takafumi Koseki<br>SAMCON 2026, Daegu, Korea, 2026, pp. 409-414
 1. Resistance Estimation of Current-Limiting Fuse for Active Control of Pyrofuse in DC Circuit Interruption Device<br>Taichi Nakano, **Reon Sasaki**, Yasuhiro Takada, Wataru Ohnishi, Yasushi Yamano, Yuki Inada<br> IECON 2025 - 51th Annual Conference of the IEEE Industrial Electronics Society, Madrid, Spain, 2025<br>[[DOI](https://doi.org/10.1109/IECON58223.2025.11221900){:target="_blank"}]
 1. Real-Time Tuning of Transformation Matrices for Decoupling Control in Dual-Drive Stage Systems Using Gaussian Process<br>**Reon Sasaki**, Naoki Akima, Gimpei Ito, Hiroshi Fujiwara, Hisashi Ooto, Wataru Ohnishi<br>2025 IEEE International Conference on Mechatronics, Wollongong, Australia, 2025, pp. 1-6<br>[[DOI](http://dx.doi.org/10.1109/ICM62621.2025.10934823){:target="_blank"}]
