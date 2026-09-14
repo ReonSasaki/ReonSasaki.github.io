@@ -35,7 +35,7 @@ Reon Sasaki received the B.E. degree in electrical and electronic engineering fr
 ## Career
 
 Experience
-- Present: Technical Engineer
+- Present: Technical Engineer of Nikon, [精密サーボシステムの深化と水平展開に関する調査専門委員会](http://www2.iee.or.jp/~diic/activities.html){:target="_blank"} 幹事
 - April 2023 - March 2026: Ph.D. Candidate, Department of Electrical Engineering and Information Systems, Graduate School of Engineering, The University of Tokyo, Japan
 - June 2024 - October 2024: Visiting Researcher, Nikon Research Corporation of America, US
 - July 2023 - September 2023: Visiting Researcher, Nikon Research Corporation of America, US
