@@ -6,7 +6,7 @@
 [Poster](https://ctl.t.u-tokyo.ac.jp/static/98a2a4657f09125a99714f275ebd487e/poster_PEMC2023_2.pdf){:target="_blank"}
 <br>
 <br>
-[Ph.D. Candidate](https://www.u-tokyo.ac.jp/focus/ja/people/k0001_05001.html){:target="_blank"}
+Ph.D. in Engineering
 <br>
 [Koseki-Ohnishi Laboratory](https://ctl.t.u-tokyo.ac.jp){:target="_blank"}
 <br>
@@ -68,7 +68,7 @@ Society
 ## Award
 1. 令和七年度 優秀博士論文賞<br>国立大学法人 東京大学 大学院工学系研究科 電気系工学専攻, 24 March 2026
 1. SAMCON 2026 Outstanding Paper Award<br>The Institute of Electrical Engineers of Japan, March 2026
-   [Page](https://www.semiconjapan.org/jp/workforce/academia-award){:target="_blank"}
+   [Page](http://www2.iee.or.jp/~diic/samcon/awards/index.html?no-cache?240811){:target="_blank"}
 1. 2024年産業応用部門研究会優秀論文発表賞部門表彰<br>一般社団法人電気学会産業応用部門, March 2025
    [Page](https://www.iee.jp/ias/about/award/paper2024/){:target="_blank"}
 1. メカトロニクス制御技術委員会優秀論文発表賞<br>一般社団法人電気学会産業応用部門メカトロニクス制御技術委員会, January 2025
